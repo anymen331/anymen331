@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soyoy Anadelid Méndez</h1>
+<h1 align="center">Hola 👋, Yo soy Anadelid Méndez</h1>
 <h3 align="center">Soy una Full Stack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/anymen331](https://github.com/anymen331)
